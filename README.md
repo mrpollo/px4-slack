@@ -6,13 +6,17 @@
 * jekyll
 
 # download source code
+```
 git clone https://github.com/mrpollo/px4-slack.git
-
-# build
-cd px4-slack/
+```
 
 # install requirements
+```
+cd px4-slack/
 bundle install
+```
 
 # development build
+```
 jekyll serve --livereload
+```
